@@ -1,4 +1,6 @@
 # 💫 About Me:
+<h1 align="center">Hi 👋, I'm Najmuddin Habib</h1>
+<h3 align="center">A Javascript developer, Tech Enthusiast, Passionate Rhythm game lover</h3>
 🔭 I’m currently working on [Stack Overflow Clone](https://github.com/PrinzEugen39/Prinz-Overflow)
 
 
